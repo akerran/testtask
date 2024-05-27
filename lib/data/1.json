@@ -1,0 +1,19 @@
+{
+   "captureType": "qwerty",
+   "parameters": {
+       "HFA_crWrFlexEx": {
+           "values": [
+            -1.0,
+            0.0,
+            1.0
+        ]
+       },
+       "HFA_crWrRadUln": {
+           "values": [
+            0.0,
+            1.0,
+            2.0
+        ]
+       }
+    }
+}
